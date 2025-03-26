@@ -15,7 +15,7 @@ export class SideMenuComponent {
   public reactiveMenu:MenuIten[] = [
     { title: 'basicos', route:'./reactive/basic'},
     { title: 'Dinamicos', route:'./reactive/dynamic'},
-    { title: 'basicos', route:'./reactive/switches'},
+    { title: 'switches', route:'./reactive/switches'},
   ];
 
   public AuthMenu:MenuIten[] = [
